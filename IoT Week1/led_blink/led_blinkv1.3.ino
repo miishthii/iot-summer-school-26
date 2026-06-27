@@ -4,7 +4,7 @@ Date: 27 June 2026
 Description: LED blink program with potentiometer speed control and serial blink counter.
 */
 
-// Updated potentiometer mapping
+// Updated potentiometer mapping.
 
 int led = 13;
 int pot = A0;
