@@ -1,4 +1,5 @@
-Difference between git pull, git fetch, and git clone
+Q9. (Theory) Explain the difference between git pull, git fetch, and git clone. When would you use each? (2 marks)
+
 1. git clone
 •	Creates a complete local copy of a remote Git repository.
 •	It is used when working with a repository for the first time.
