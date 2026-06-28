@@ -1,0 +1,19 @@
+# Relay-Controlled AC Device Simulation
+
+Temperature: 23.50 C | Relay: OFF
+Temperature: 23.50 C | Relay: OFF
+Temperature: 23.50 C | Relay: OFF
+MANUAL OVERRIDE -> Relay ON
+Temperature: 23.50 C | Relay: ON
+Temperature: 23.50 C | Relay: ON
+Temperature: 44.10 C | Relay: ON
+Temperature: -2.00 C | Relay: ON
+Temperature: -2.00 C | Relay: ON
+Temperature: -2.00 C | Relay: ON
+Temperature: -2.00 C | Relay: ON
+MANUAL OVERRIDE -> Relay OFF
+Temperature: -2.00 C | Relay: OFF
+Temperature: -2.00 C | Relay: OFF
+Temperature: -2.00 C | Relay: OFF
+Temperature: 32.70 C | Relay: ON
+Temperature: 21.40 C | Relay: OFF
