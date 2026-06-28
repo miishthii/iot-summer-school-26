@@ -1,3 +1,9 @@
+/*
+ * Author      : Mishthi Chopra
+ * Date        : 28 June 2026
+ * Description : LEDs blink initials, using array concept
+ */
+
 #include<Servo.h>
 int seg[7] = {1,2,3,4,5,6,7};
 
