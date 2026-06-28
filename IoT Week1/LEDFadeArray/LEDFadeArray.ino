@@ -1,3 +1,8 @@
+/*
+ * Author      : Mishthi Chopra
+ * Date        : 28 June 2026
+ */
+
 #include<Servo.h>
 int rows[4] = {1,2,3,4};
 int cols[4] = {5,6,7,8};
