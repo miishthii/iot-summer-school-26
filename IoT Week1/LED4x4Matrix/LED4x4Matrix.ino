@@ -1,7 +1,7 @@
 /*
  * Author      : Mishthi Chopra
  * Date        : 28 June 2026
- * Description : LEDs blink initials, using matrix xonept.
+ * Description : LEDs blink initials, using matrix concept
  */
 
 int leds[16] = {
