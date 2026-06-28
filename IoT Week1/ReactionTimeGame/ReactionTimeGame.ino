@@ -1,3 +1,8 @@
+/*
+ * Author      : Mishthi Chopra
+ * Date        : 28 June 2026
+ */
+
 #include<Servo.h>
 int redLED = 8;
 int yellowLED = 9;
