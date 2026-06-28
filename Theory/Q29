@@ -1,15 +1,10 @@
 
 Q29. (Theory) What is sensor calibration and why is it important in IoT systems? How would you calibrate an analog soil moisture sensor to give accurate percentage readings? Describe the two-point calibration method. (2 marks)
 
-Sensor Calibration
-
 Sensor calibration is the process of adjusting or mapping a sensor's output so that it accurately represents the actual physical quantity being measured.
-
 Sensors often produce different readings due to manufacturing variations, aging, temperature changes, and environmental conditions. Calibration helps eliminate these errors and improves measurement accuracy.
 
-Importance of Sensor Calibration in IoT Systems
-
-Sensor calibration is essential because it:
+### Importance of Sensor Calibration in IoT Systems
 
 Improves the accuracy and reliability of sensor data.
 Reduces measurement errors caused by sensor variations.
@@ -19,19 +14,17 @@ Prevents false alarms and incorrect actions.
 
 For example, in a smart irrigation system, an uncalibrated soil moisture sensor may indicate that the soil is dry even when it has enough moisture, causing unnecessary watering and wasting water.
 
-Calibration of an Analog Soil Moisture Sensor
+## Calibration of an Analog Soil Moisture Sensor
 
 An analog soil moisture sensor produces an analog value (typically 0–1023 on an Arduino Uno) that varies with the moisture content of the soil.
-
 Since different sensors and soil types produce different values, calibration is required before converting the readings into moisture percentages.
-
 Two-Point Calibration Method
 
 The two-point calibration method is the simplest and most commonly used method.
 
 It uses two reference conditions:
 
-Point 1: Dry Soil (0% Moisture)
+### Point 1: Dry Soil (0% Moisture)
 Keep the sensor completely dry or in air.
 Read the sensor value several times.
 Record the average value.
@@ -42,7 +35,7 @@ Dry Reading = 850
 
 This represents 0% moisture.
 
-Point 2: Wet Soil (100% Moisture)
+### Point 2: Wet Soil (100% Moisture)
 Insert the sensor into fully saturated soil or water.
 Record the sensor value.
 
@@ -52,7 +45,7 @@ Wet Reading = 350
 
 This represents 100% moisture.
 
-Converting Sensor Reading to Percentage
+## Converting Sensor Reading to Percentage
 
 Now, any reading between the dry and wet values can be converted into a moisture percentage.
 
@@ -77,7 +70,7 @@ Any value in between is converted proportionally into a percentage.
 constrain() ensures the value stays between 0% and 100%.
 Practical IoT Example
 
-Consider a Smart Irrigation System.
+## Consider a Smart Irrigation System.
 
 The soil moisture sensor continuously measures soil moisture.
 The Arduino reads the value using analogRead().
@@ -88,7 +81,7 @@ The moisture percentage is also uploaded to a cloud dashboard or mobile applicat
 
 This ensures efficient water usage and healthy plant growth.
 
-Advantages of Two-Point Calibration
+## Advantages of Two-Point Calibration
 Simple and easy to perform.
 Improves measurement accuracy.
 Compensates for differences between sensors.
