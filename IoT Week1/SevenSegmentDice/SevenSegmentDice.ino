@@ -1,3 +1,8 @@
+/*
+ * Author      : Mishthi Chopra
+ * Date        : 28 June 2026
+ */
+
 #include<Servo.h>
 int buttonState = 0;
 const int LED = 3;
