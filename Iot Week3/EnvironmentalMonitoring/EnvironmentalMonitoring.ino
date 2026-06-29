@@ -1,3 +1,8 @@
+/*
+ * Author      : Mishthi Chopra
+ * Date        : 28 June 2026
+ */
+
 #include <DHT.h>
 #define DHTPIN 2
 #define DHTTYPE DHT22      // Using DHT22 in Wokwi
