@@ -1,3 +1,8 @@
+/*
+ * Author      : Mishthi Chopra
+ * Date        : 28 June 2026
+ */
+
 #include<Servo.h>
 Servo door;
 int tempsensor = A0;
