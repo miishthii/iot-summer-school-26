@@ -4,9 +4,9 @@
 
 **Name:** Mishthi Chopra
 
-**Roll Number:** *[Enter Your Roll Number]*
+**Roll Number:** 
 
-**Repository:** iot-summer-school-2026
+**Repository:** iot-summer-school-26
 
 ---
 
