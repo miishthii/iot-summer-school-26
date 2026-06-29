@@ -1,3 +1,8 @@
+/*
+ * Author      : Mishthi Chopra
+ * Date        : 28 June 2026
+ */
+
 const int trigPin = 9;
 const int echoPin = 10;
 const int yellowLED = 3;
