@@ -1,3 +1,8 @@
+/*
+ * Author      : Mishthi Chopra
+ * Date        : 28 June 2026
+ */
+
 const int buzzer = 8;
 const int dobtn = 2;
 const int rebtn = 3;
