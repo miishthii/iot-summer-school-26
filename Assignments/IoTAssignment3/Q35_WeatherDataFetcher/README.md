@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-Develop an ESP32-based IoT application that fetches real-time weather data from the OpenWeatherMap REST API and compares it with local environmental readings obtained from a DHT11 sensor. The system displays the city name, weather description, temperature, humidity, and the difference between API data and local sensor readings through the Serial Monitor.
+Develop an ESP32-based IoT application that fetches real time weather data from the OpenWeatherMap REST API and compares it with local environmental readings obtained from a DHT11 sensor. The system displays the city name, weather description, temperature, humidity, and the difference between API data and local sensor readings through the Serial Monitor.
 
 ---
 
