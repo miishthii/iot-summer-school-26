@@ -1,7 +1,7 @@
 # 🔐 Smart Door Lock with OTP
 
 ## 📌 Problem Statement
-
+ 
 A university hostel wants to replace traditional physical keys with a secure PIN-based access system. This project implements an IoT-enabled Smart Door Lock that allows a student to enter a 4-digit ID, generates a unique 6-digit One-Time Password (OTP), and unlocks the door only after the correct OTP is entered within 30 seconds. The system logs all access attempts and provides visual feedback using an LCD display.
 
 ---
