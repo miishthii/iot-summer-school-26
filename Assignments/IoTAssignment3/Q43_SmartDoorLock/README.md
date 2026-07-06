@@ -1,4 +1,5 @@
 # 🔐 Smart Door Lock with OTP
+**Video demo:** https://www.loom.com/share/d9fdf44abeca4de6b5fbf55a15d38995
 
 ## 📌 Problem Statement
  
