@@ -2,7 +2,7 @@
 **video demo**: https://www.loom.com/share/de1deaf41923426fbde2ba8e11cd67a0
 
 ## 📌 Problem Statement
-
+ 
 A horticulture farmer in Jammu & Kashmir wants to automate irrigation for a small saffron farm plot. The system should monitor soil moisture and water the plants only when the soil is dry. Since saffron is highly sensitive to overwatering, the system must avoid watering during rainy or overcast conditions. The farmer should also be able to manually activate irrigation whenever required.
 
 ---
