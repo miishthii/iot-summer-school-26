@@ -25,7 +25,7 @@ const char* CITY = "Jammu";
 // ============================
 
 const char* SCRIPT_URL =
-"https://script.google.com/macros/s/AKfycbxXC_hcJwHee8P1QVKaOxcHi1GWnMS2bMS6Wcd4bwVqYiXLB0JU5pUKja7iXI_sN9lEdA/exec";
+"YOUR SCRIPT URL";
 
 // ============================
 // Pins
