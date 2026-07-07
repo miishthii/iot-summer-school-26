@@ -1,0 +1,7 @@
+// sample data
+Timestamp,HeartRate,SpO2,Alert
+0,78,98,NO
+2,81,99,NO
+4,122,93,YES
+6,75,98,NO
+8,46,92,YES
