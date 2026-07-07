@@ -1,4 +1,5 @@
 # 🚨 PIR-Based Security Camera Trigger
+**Video demo:** https://www.loom.com/share/be50f51e521f4ad0b2a7f9f2de66835c
 
 ## 📌 Problem Statement
 
