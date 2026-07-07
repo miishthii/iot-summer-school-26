@@ -17,7 +17,7 @@ const char* WIFI_PASSWORD = "";
 // OpenWeather API
 // ============================
 
-const char* API_KEY = "576d516f83a5d5288fb864abc58e85df";
+const char* API_KEY = "YOUR API KEY";
 const char* CITY = "Jammu";
 
 // ============================
