@@ -16,7 +16,7 @@ Each assignment includes the required files, such as:
 
 ### Assignment 02-07-26
 **Google Docs:**  
-https://docs.google.com/document/d/1xazjLaAiY0wN8RhcI18wvzjOcMbITMMK-CqNGzErsbg/edit?usp=sharing
+[https://docs.google.com/document/d/1xazjLaAiY0wN8RhcI18wvzjOcMbITMMK-CqNGzErsbg/edit?usp=sharing](https://docs.google.com/document/d/1xazjLaAiY0wN8RhcI18wvzjOcMblTMMK-CqNGzErsbg/edit?usp=sharing)
 
 ### Assignment 08-07-26 — IoT Module 4 & Module 5 (Q35–Q50)
 **Google Docs:**  
